@@ -13,4 +13,22 @@ I was curious to make something like the things i am working on like the FPV dro
 <img width="1785" height="966" alt="Screenshot 2026-10-04 024723" src="https://github.com/user-attachments/assets/eb720e10-e08c-4aea-8338-a0e9149e2674" />
 
 
+### BOM
+
+| Item                      | Amount | Supplier      | Link                                 | Note                         |
+|---------------------------|--------|---------------|--------------------------------------|------------------------------|
+| RCRoverFrame Split Part-1 | $2.34  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
+| RCRoverFrame Split Part-2 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
+| RCRoverFrame Split Part-3 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
+| RCRoverFrame Split Part-4 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
+| RCRoverFrame Split Part-5 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
+| SHIPPING                  | $9.57  | UPS (JLCPCB ) | https://jlc3dp.com/3d-printing-quote |                              |
+| TOTAL                     |        |               |                                      |                              |
+
+
+
+<img width="1124" height="766" alt="image" src="https://github.com/user-attachments/assets/479103b0-278f-4fe4-9146-906231a15888" />
+
+
+
 
