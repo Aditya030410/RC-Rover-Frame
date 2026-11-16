@@ -23,7 +23,7 @@ I was curious to make something like the things i am working on like the FPV dro
 | RCRoverFrame Split Part-4 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
 | RCRoverFrame Split Part-5 | $0.32  | JLCPCB 3DP    | https://jlc3dp.com/3d-printing-quote | CART IMAGE IS ATTACHED BELOW |
 | SHIPPING                  | $9.57  | UPS (JLCPCB ) | https://jlc3dp.com/3d-printing-quote |                              |
-| TOTAL                     |        |               |                                      |                              |
+| TOTAL                     | $13.19 |               |                                      |                              |
 
 
 
